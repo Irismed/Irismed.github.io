@@ -2309,6 +2309,12 @@ i:before {
   color: #fff;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
+  overflow:hidden!important;
+  margin-left:-8px;
+  margin-right: -8px;
+  margin-top: 0px;
+  margin-botton:2px;
+  text-align:left;
 }
 
 .f_insta_widget ul {
@@ -2345,6 +2351,7 @@ i:before {
   font-family: "Roboto", sans-serif;
   font-style: italic;
   color: #9b9b9b;
+  overflow:hidden!important;
 }
 
 .f_subs_widget .input-group input.placeholder {
