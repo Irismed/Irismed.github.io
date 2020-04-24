@@ -1,0 +1,84 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="heart-rate-1">
+    <title>Heart Rate</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer1"
+    d="M7 34h10.76a.5.5 0 0 0 .39-.188l3.437-4.3a.5.5 0 0 1 .8.022l4.166 5.833a.5.5 0 0 0 .839-.039l6.1-10.459a.5.5 0 0 1 .894.062l6.2 15.049a.5.5 0 0 0 .91.033l3.371-6.741a.5.5 0 0 1 .442-.272H57"
+    fill="none" stroke="#4636e1" stroke-linecap="round" stroke-miterlimit="10"
+    stroke-width="1" stroke-linejoin="miter"></path>
+    <rect data-name="layer2" x="2" y="7" width="60" height="50" rx="3"
+    ry="3" fill="none" stroke="#4636e1" stroke-linecap="round" stroke-miterlimit="10"
+    stroke-width="1" stroke-linejoin="miter"></rect>
+    <path data-name="layer2" fill="none" stroke="#4636e1" stroke-linecap="round"
+    stroke-miterlimit="10" stroke-width="1" d="M7 12h50v35H7zm50 40H42" stroke-linejoin="miter"></path>
+    <path data-name="layer1" d="M19.5 17a2.716 2.716 0 0 0-2.5 1.481A2.716 2.716 0 0 0 14.5 17a2.373 2.373 0 0 0-2.5 2.222c0 1.926 1.833 3.852 5 5.778 3.167-1.926 5-3.852 5-5.778A2.373 2.373 0 0 0 19.5 17zM47 17s-3 0-3 5"
+    fill="none" stroke="#4636e1" stroke-linecap="round" stroke-miterlimit="10"
+    stroke-width="1" stroke-linejoin="miter"></path>
+    <circle data-name="layer1" cx="46" cy="22" r="2" fill="none" stroke="#4636e1"
+    stroke-linecap="round" stroke-miterlimit="10" stroke-width="1" stroke-linejoin="miter"></circle>
+    <path data-name="layer1" fill="none" stroke="#4636e1" stroke-linecap="round"
+    stroke-miterlimit="10" stroke-width="1" d="M52 17v7" stroke-linejoin="miter"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="mental-health-1">
+    <title>Mental Health</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer2"
+    d="M32.748 61.828a.249.249 0 0 0 .37-.107C33.853 60.01 37.775 51 39 51c2 0 5.938 2 9 2s2.488-7.083 3.445-9.973S53 38.445 53 37c3.828-.385 3.134-1.581 2.655-2.737S51 27.867 51 27c0-1 1-4.074 1-6 0-8.764-5-19-21.991-19C13.359 2 8 14.258 8 21s1.895 11.785 4 14 4 4.244 4 8a9.538 9.538 0 0 1-2 6z"
+    fill="none" stroke="#4636e1" stroke-linecap="round" stroke-miterlimit="10"
+    stroke-width="1" stroke-linejoin="miter"></path>
+    <path data-name="layer1" d="M25 8c5.965-1.193 17.762-.476 20 10 .864 4.119 1.2 8.237-8 9s-13.288 1.22-14 3-1 6-3 6a1.789 1.789 0 0 1-2-2c0-1.856-1-4-2-6-.834-1.668-6-17 9-20z"
+    fill="none" stroke="#4636e1" stroke-linecap="round" stroke-miterlimit="10"
+    stroke-width="1" stroke-linejoin="miter"></path>
+    <path data-name="layer1" d="M34 22c2-2 6-2 6.834 1.386a2.636 2.636 0 0 1-1.7 3.35M31 21c-3 1-3.831 4.262-2 6m7.91-18.194c1.257 3.141.378 5.821-1.91 7.194m7.4-3.4c.658 3.362-.4 5.4-3.4 5.4M30.292 7.625A4.3 4.3 0 0 1 32 13m-2 4c-1-2-4.373-2.034-6 0m-2.156-8c3.407.458 6.023 3.093 5.133 6.5M22 16c-3-.813-2.953-4.229-2.752-5.719M19 19a2.558 2.558 0 0 0-4.422 0M25 20c-2 0-4 3-1 5m-1.488-2.847c-2.7-.407-6.491 1.158-6.778 5"
+    fill="none" stroke="#4636e1" stroke-linecap="round" stroke-miterlimit="10"
+    stroke-width="1" stroke-linejoin="miter"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="rfid-signal-1">
+    <title>RFID Signal</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <circle data-name="layer2"
+    cx="32" cy="32.2" r="4" fill="none" stroke="#4636e1" stroke-miterlimit="10"
+    stroke-width="1" stroke-linejoin="miter" stroke-linecap="round"></circle>
+    <path data-name="layer1" d="M24.6 41.6a12 12 0 0 1 0-18.8m14.8 0a12 12 0 0 1 0 18.9M18.2 48a21 21 0 0 1 0-31.6m27.6 0a21 21 0 0 1 0 31.7m-34 6.3a30 30 0 0 1 0-44.4m40.4 0a30 30 0 0 1 0 44.4"
+    fill="none" stroke="#4636e1" stroke-miterlimit="10" stroke-width="1" stroke-linejoin="miter"
+    stroke-linecap="round"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="ipad-1">
+    <title>iPad</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer2"
+    d="M54 4a2 2 0 0 0-2-2H12a2 2 0 0 0-2 2v6h44zm0 46V10m-44 0v40m0 0v10a2 2 0 0 0 2 2h40a2 2 0 0 0 2-2V50z"
+    fill="none" stroke="#4636e1" stroke-linecap="round" stroke-linejoin="miter"
+    stroke-width="2"></path>
+    <circle data-name="layer1" cx="32" cy="56" r="2" fill="none" stroke="#4636e1"
+    stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"></circle>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="watch-1">
+    <title>Watch</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer2"
+    fill="none" stroke="#4636e1" stroke-linecap="round" stroke-miterlimit="10"
+    stroke-width="2" d="M15.802 18.635L21 2h22l5.198 16.634M15.823 45.391L21 61.958h22l5.177-16.567M52.619 28H56a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-3.381"
+    stroke-linejoin="round"></path>
+    <path data-name="layer1" fill="none" stroke="#4636e1" stroke-linecap="round"
+    stroke-miterlimit="10" stroke-width="2" d="M24 27l8.037 7.073L43 23" stroke-linejoin="round"></path>
+    <circle data-name="layer1" cx="32" cy="32" r="21" fill="none" stroke="#4636e1"
+    stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"></circle>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="atom-1">
+    <title>Atom</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path data-name="layer1"
+    d="M36.929 23.453C22.843 15.373 9.173 12.7 6.4 17.475s6.391 15.2 20.476 23.283S54.628 51.514 57.4 46.735s-6.386-15.202-20.471-23.282z"
+    fill="none" stroke="#4636e1" stroke-linecap="round" stroke-miterlimit="10"
+    stroke-width="2" stroke-linejoin="round"></path>
+    <circle data-name="layer2" cx="32" cy="32" r="4" fill="none" stroke="#4636e1"
+    stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"></circle>
+    <path data-name="layer2" d="M23.333 46.973a77.044 77.044 0 0 0 13.6-6.215c14.086-8.08 23.253-18.5 20.476-23.283-1.832-3.153-8.406-3.061-16.712-.313m-3.713 1.36a81.213 81.213 0 0 0-10.111 4.93C12.787 31.533 3.62 41.957 6.4 46.735c1.6 2.748 6.8 3.031 13.6 1.238"
+    fill="none" stroke="#4636e1" stroke-linecap="round" stroke-miterlimit="10"
+    stroke-width="2" stroke-linejoin="round"></path>
+    <path data-name="layer1" d="M22.177 26.349C23.058 12.482 27.121 2 32 2c5.523 0 10 13.431 10 30a89.7 89.7 0 0 1-.182 5.733m-.393 4.319C40.047 53.677 36.348 62 32 62c-5.523 0-10-13.431-10-30"
+    fill="none" stroke="#4636e1" stroke-linecap="round" stroke-miterlimit="10"
+    stroke-width="2" stroke-linejoin="round"></path>
+  </symbol>
+</svg>
